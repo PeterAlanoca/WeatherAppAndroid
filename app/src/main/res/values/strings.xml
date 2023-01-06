@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Weather App</string>
+
+    <string name="app_http_timeout">Tiempo de espera agotado.</string>
+    <string name="app_http_unable_to_connect">No se pudo establecer conexión.</string>
+    <string name="app_http_verify_connection">Verifique la conexión a internet.</string>
+    <string name="app_http_json_error">No se puede interpretar la respuesta del servidor.</string>
+    <string name="app_http_unknown_error">Ha ocurrido un error de comunicación.</string>
+    <string name="app_http_session_expired">Por favor inicia sesión.</string>
+    <string name="app_http_rest_error_in_the_request">Error en la solicitud.</string>
+    <string name="app_http_rest_internal_error_in_the_server">Error interno en el servidor.</string>
+    <string name="app_http_rest_server_could_not_be_found">No se pudo encontrar el servidor para la solicitud.</string>
+    <string name="app_http_rest_could_not_find_secure_server">Certificado no identificado para la solicitud.</string>
+    <string name="title_activity_splash">SplashActivity</string>
+    <string name="menu_item_weather">Clima</string>
+    <string name="menu_item_history">Historial</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="dummy_temp">30</string>
+    <string name="temp_symbol_dummy">ºc</string>
+    <string name="border">-----------------</string>
+    <string name="separator">/</string>
+
+</resources>
+

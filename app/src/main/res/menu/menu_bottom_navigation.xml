@@ -1,0 +1,16 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <item
+        android:id="@+id/actionWeather"
+        android:icon="@drawable/ic_baseline_cloud_queue_24"
+        android:title="@string/menu_item_weather"
+        app:showAsAction="withText" />
+
+    <item
+        android:id="@+id/actionHistory"
+        android:icon="@drawable/ic_baseline_history_24"
+        android:title="@string/menu_item_history"
+        app:showAsAction="withText" />
+
+</menu>
