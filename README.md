@@ -11,7 +11,7 @@ Este proyecto es una aplicación Android meteorológica, la aplicación mostrar�
 - GooglePlaces
 - Lottie
 - Room
-- Hilt
+- Dagger Hilt
 
 
 ## Instalar
